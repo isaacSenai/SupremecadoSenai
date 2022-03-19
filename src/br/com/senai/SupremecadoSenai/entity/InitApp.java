@@ -5,7 +5,7 @@ public class InitApp {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Iniciando ");
+		System.out.println("Iniciando servidor...");
 		
 		
 	}
